@@ -132,9 +132,20 @@ nav a {
 
 /* Bottom Section Styles */
 
-.backdrop {
-    padding: .5rem;
-    width: 40%;
-    
+.backdrop { 
+    width: 100%;
+    height: 400px;
+    background-image: url(assets/footer_img.jpg);
+    background-size: 100% 100%; 
+}
+
+.orange:hover {
+    color: darkviolet;
+}
+.blue:hover {
+    color: darkred;
+}
+.yellow:hover {
+    color: darkorchid;
 }
 
