@@ -108,7 +108,7 @@ nav a {
     top: 45%;
 }
 
-/* Middle to Bottom Section Styles */
+/* Middle Section Styles */
 .content {
     background-color: #DDB9A3;
     line-height: 2.0;
@@ -118,18 +118,23 @@ nav a {
     text-align: center;
     color: white;
 }
+.text {
+    text-align: center;
+    padding: 1% 39.5%;
+}
 .middle {
-    width: 15%;    
+    width: 50%;    
 }
-img {
-    display: block;
-    margin: auto;
-    width: 30%;
-}
+
 .thick {
     font-weight: bold;
 }
 
+/* Bottom Section Styles */
 
-
+.backdrop {
+    padding: .5rem;
+    width: 40%;
+    
+}
 
